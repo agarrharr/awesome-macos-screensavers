@@ -2,20 +2,28 @@
 
 A list of screensavers for Mac OS X.
 
-## Clocks
+## Free
+
+### Clocks
 
 * [fliqlo](http://fliqlo.com/)- the flip clock screensaver
 * [Word Clock](https://www.simonheys.com/wordclock/)
 * [PolarClock](http://blog.pixelbreaker.com/polarclock)
 
-## iOS inspired
+### iOS inspired
 
 * [iOS Lockscreen for OS X](http://littleendiangamestudios.com/project/ios-7-screen-saver/)
 
-## Retro
+### Retro
 
 * [Flying Toasters](http://en.infinisys.co.jp/product/flyingtoasters/index.shtml)- from the best-selling screen saver of the 90's "After Dark"
 
-## Aquarium
+### Aquarium
 
 * [Aquarium live lite](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
+
+## Paid
+
+### Visualizers
+
+* [Electric Sheep Infinite Evolving Artwork](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503)
