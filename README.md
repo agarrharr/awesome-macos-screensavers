@@ -5,6 +5,8 @@ A list of screensavers for Mac OS X.
 ## Clocks
 
 [fliqlo](http://fliqlo.com/)- the flip clock screensaver
+[Word Clock](https://www.simonheys.com/wordclock/)
+[PolarClock](http://blog.pixelbreaker.com/polarclock)
 
 ## iOS inspired
 
