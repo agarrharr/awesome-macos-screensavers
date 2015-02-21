@@ -24,6 +24,5 @@ A list of screensavers for Mac OS X.
 
 ## Paid
 
-### Visualizers
-
-* [Electric Sheep Infinite Evolving Artwork](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503)
+* [Electric Sheep Infinite Evolving Artwork](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503)- $1.99
+* [Textify Me](https://itunes.apple.com/us/app/textify-me/id470453599)- $0.99
