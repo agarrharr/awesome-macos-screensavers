@@ -18,6 +18,10 @@ A list of screensavers for Mac OS X.
 
 * [Flying Toasters](http://en.infinisys.co.jp/product/flyingtoasters/index.shtml)- from the best-selling screen saver of the 90's "After Dark"
 
+### Other
+
+* [HAL 9000](http://www.halproject.com/)- basic is free, advanced edition is $8
+
 ### Aquarium
 
 * [Aquarium live lite](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
