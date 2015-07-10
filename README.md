@@ -7,8 +7,9 @@ A list of screensavers for Mac OS X.
 ### Clocks
 
 * [fliqlo](http://fliqlo.com/)- the flip clock screensaver
-* [Word Clock](https://www.simonheys.com/wordclock/)
+* [Padbury Clock](http://padbury.me/clock/)
 * [PolarClock](http://blog.pixelbreaker.com/polarclock)
+* [Word Clock](https://www.simonheys.com/wordclock/)
 
 ### iOS inspired
 
