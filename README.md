@@ -19,6 +19,8 @@ A list of screensavers for Mac OS X.
 
 * [Flying Toasters](http://en.infinisys.co.jp/product/flyingtoasters/index.shtml)- from the best-selling screen saver of the 90's "After Dark"
 
+* [PongSaver](http://rogueamoeba.com/freebies/)- PongSaver is an OS X screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
+
 ### Other
 
 * [HAL 9000](http://www.halproject.com/)- basic is free, advanced edition is $8
