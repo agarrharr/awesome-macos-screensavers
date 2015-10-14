@@ -1,6 +1,9 @@
-# Mac Screensavers
+# Awesome Mac Screensavers
 
-A list of screensavers for Mac OS X.
+> A curated list of screensavers for Mac OS X.
+
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+
 
 ## Free
 
