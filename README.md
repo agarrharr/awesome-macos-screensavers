@@ -43,4 +43,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Electric Sheep Infinite Evolving Artwork](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503)- $1.99
 
-* [Textify Me](https://itunes.apple.com/us/app/textify-me/id470453599)- $0.99
+* [Textify Me](https://itunes.apple.com/us/app/textify-me/id470453599)- $0.99- This interactive screen saver turns everything in front of your camera into text!
