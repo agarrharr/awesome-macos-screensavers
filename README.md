@@ -9,9 +9,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Clocks
 
+* [Colour Clock](http://www.clock.lookatjack.com/)- Time as a hexadecimal colour value
+
 * [fliqlo](http://fliqlo.com/)- the flip clock screensaver
+
 * [Padbury Clock](http://padbury.me/clock/)
+
 * [PolarClock](http://blog.pixelbreaker.com/polarclock)
+
 * [Word Clock](https://www.simonheys.com/wordclock/)
 
 ### iOS inspired
@@ -35,4 +40,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Paid
 
 * [Electric Sheep Infinite Evolving Artwork](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503)- $1.99
+
 * [Textify Me](https://itunes.apple.com/us/app/textify-me/id470453599)- $0.99
