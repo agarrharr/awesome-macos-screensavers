@@ -21,6 +21,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### iOS inspired
 
+* [Apple Watch](http://www.rasmusnielsen.dk/applewatch/)- A screensaver that looks like an Apple Watch
+
 * [iOS Lockscreen for OS X](http://littleendiangamestudios.com/project/ios-7-screen-saver/)
 
 ### Retro
