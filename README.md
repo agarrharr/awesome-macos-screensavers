@@ -19,7 +19,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Word Clock](https://www.simonheys.com/wordclock/)
 
-### iOS inspired
+### iOS (and Apple TV) inspired
+
+* [Aerial](https://github.com/JohnCoates/Aerial)- Apple TV Aerial Screensaver for Mac
 
 * [Apple Watch](http://www.rasmusnielsen.dk/applewatch/)- A screensaver that looks like an Apple Watch
 
