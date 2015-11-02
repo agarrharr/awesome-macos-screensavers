@@ -51,6 +51,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Aquarium live lite](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
 
+### Developer
+
+* [Developer Excuses](https://github.com/kimar/DeveloperExcuses)- A Mac OS X Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com), unofficial
+
 ## Paid
 
 * [Electric Sheep Infinite Evolving Artwork](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503)- $1.99
