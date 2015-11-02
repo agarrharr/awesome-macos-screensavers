@@ -37,9 +37,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [PongSaver](http://rogueamoeba.com/freebies/)- PongSaver is an OS X screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
 
-### Other
+### Sci-Fi Inspired
 
 * [HAL 9000](http://www.halproject.com/)- basic is free, advanced edition is $8
+
+* [The Github Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver)-The latest commits from GitHub visualized in a Matrix-style animation. 
 
 ### Aquarium
 
