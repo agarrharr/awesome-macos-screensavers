@@ -9,8 +9,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Clocks
 
-* [Colour Clock](http://www.clock.lookatjack.com/)- Time as a hexadecimal colour value
-
 * [fliqlo](http://fliqlo.com/)- the flip clock screensaver
 
 * [Padbury Clock](http://padbury.me/clock/)
@@ -18,6 +16,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [PolarClock](http://blog.pixelbreaker.com/polarclock)
 
 * [Word Clock](https://www.simonheys.com/wordclock/)
+
+#### Color Clocks
+
+* [Colour Clock](http://www.clock.lookatjack.com/)- Time as a hexadecimal colour value
+
+* [What Colour Is It?](https://github.com/Jonic/WhatColourIsIt-ScreenSaver)-It's [http://whatcolourisit.scn9a.org/](http://whatcolourisit.scn9a.org/) but as a Mac screensaver
 
 ### iOS (and Apple TV) inspired
 
