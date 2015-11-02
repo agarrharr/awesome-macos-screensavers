@@ -41,7 +41,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [HAL 9000](http://www.halproject.com/)- basic is free, advanced edition is $8
 
-* [The Github Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver)-The latest commits from GitHub visualized in a Matrix-style animation. 
+* [The Github Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver)-The latest commits from GitHub visualized in a Matrix-style animation.
+
+### Video Game
+
+* [SpeedS@ver](https://github.com/orta/SpeedS-ver)- This screensaver will download and run videos of people completing speed runs of games.
 
 ### Aquarium
 
