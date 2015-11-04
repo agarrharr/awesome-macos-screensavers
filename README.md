@@ -43,6 +43,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [The Github Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver)-The latest commits from GitHub visualized in a Matrix-style animation.
 
+* [StarWarsScroll](http://download.cnet.com/StarWarsScroll-Screen-Saver/3000-2257_4-82580.html)- Recreates the opening titles of the first 6 Star Wars movies.
+
 ### Video Game
 
 * [SpeedS@ver](https://github.com/orta/SpeedS-ver)- This screensaver will download and run videos of people completing speed runs of games.
