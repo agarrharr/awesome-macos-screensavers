@@ -4,6 +4,20 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
+
+- [Clocks](#clocks)
+  - [Color Clocks](#color-clocks)
+- [iOS (and Apple TV) Inspired](#ios-and-apple-tv-inspired)
+- [Retro](#retro)
+- [Sci-Fi](#sci-fi)
+- [Video Game](#video-game)
+- [Aquarium](#aquarium)
+- [Developer](#developer)
+- [Graphics](#graphics)
+
+---
+
 ## Clocks
 
 - [fliqlo](http://fliqlo.com/) - the flip clock screensaver
@@ -16,7 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Colour Clock](http://www.clock.lookatjack.com/) - Time as a hexadecimal colour value
 - [What Colour Is It?](https://github.com/Jonic/WhatColourIsIt-ScreenSaver) -It's [http://whatcolourisit.scn9a.org/](http://whatcolourisit.scn9a.org/) but as a Mac screensaver
 
-## iOS (and Apple TV) inspired
+## iOS (and Apple TV) Inspired
 
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [Apple Watch](http://www.rasmusnielsen.dk/applewatch/) - A screensaver that looks like an Apple Watch
@@ -28,7 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PongSaver](http://rogueamoeba.com/freebies/) - PongSaver is an OS X screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
 - [Textify Me](https://itunes.apple.com/us/app/textify-me/id470453599) - $0.99- This interactive screen saver turns everything in front of your camera into text!
 
-## Sci-Fi Inspired
+## Sci-Fi
 
 - [HAL 9000](http://www.halproject.com/) - basic is free, advanced edition is $8
 - [The Github Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) -The latest commits from GitHub visualized in a Matrix-style animation.
