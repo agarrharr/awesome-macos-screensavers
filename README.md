@@ -37,6 +37,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [PongSaver](http://rogueamoeba.com/freebies/)- PongSaver is an OS X screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
 
+* [Textify Me](https://itunes.apple.com/us/app/textify-me/id470453599)- $0.99- This interactive screen saver turns everything in front of your camera into text!
+
 ### Sci-Fi Inspired
 
 * [HAL 9000](http://www.halproject.com/)- basic is free, advanced edition is $8
@@ -57,8 +59,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Developer Excuses](https://github.com/kimar/DeveloperExcuses)- A Mac OS X Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com), unofficial
 
-## Paid
+## Graphics
 
 * [Electric Sheep Infinite Evolving Artwork](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503)- $1.99
-
-* [Textify Me](https://itunes.apple.com/us/app/textify-me/id470453599)- $0.99- This interactive screen saver turns everything in front of your camera into text!
