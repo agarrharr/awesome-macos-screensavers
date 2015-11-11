@@ -59,13 +59,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Retro
 
-- [Flying Toasters](http://en.infinisys.co.jp/product/flyingtoasters/index.shtml) - from the best-selling screen saver of the 90's "After Dark"
+- [Flying Toasters](http://en.infinisys.co.jp/product/flyingtoasters/index.shtml) - $4.50 - from the best-selling screen saver of the 90's "After Dark"
 - [PongSaver](http://rogueamoeba.com/freebies/) - PongSaver is an OS X screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
+
+    [![](screenshots/pongSaver.png)](http://rogueamoeba.com/freebies/)
+
 - [Textify Me](https://itunes.apple.com/us/app/textify-me/id470453599) - $0.99- This interactive screen saver turns everything in front of your camera into text!
 
 ## Sci-Fi
 
 - [HAL 9000](http://www.halproject.com/) - basic is free, advanced edition is $8
+
+    [![](screenshots/hal9000.png)](http://www.halproject.com/)
+
 - [The Github Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) -The latest commits from GitHub visualized in a Matrix-style animation.
 
     [![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver)
@@ -79,17 +85,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [SpeedS@ver](https://github.com/orta/SpeedS-ver) - This screensaver will download and run videos of people completing speed runs of games.
 
+    [![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver)
+
 ## Aquarium
 
 - [Aquarium live lite](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
+
+    [![](screenshots/aquariumLive.png)](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
 
 ## Developer
 
 - [Developer Excuses](https://github.com/kimar/DeveloperExcuses) - A Mac OS X Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com), unofficial
 
+    [![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
+
 ## Graphics
 
 - [Electric Sheep Infinite Evolving Artwork](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503) - $1.99
+
+    [![](screenshots/electricSheep.png)](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503)
 
 ## How to Get Screenshots
 
