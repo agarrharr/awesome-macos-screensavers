@@ -59,6 +59,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [iOS Lockscreen for OS X](http://littleendiangamestudios.com/project/ios-7-screen-saver/)
 
+    [![](screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-7-screen-saver/)
+
 ## Retro
 
 - [PongSaver](http://rogueamoeba.com/freebies/) - PongSaver is an OS X screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
