@@ -35,6 +35,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Word Clock](https://www.simonheys.com/wordclock/)
 
+    [![](screenshots/wordClock.png)](https://www.simonheys.com/wordclock/)
+
 ### Color Clocks
 
 - [Colour Clock](http://www.clock.lookatjack.com/) - Time as a hexadecimal colour value
