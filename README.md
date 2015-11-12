@@ -15,7 +15,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Aquarium](#aquarium)
 - [Developer](#developer)
 - [Graphics](#graphics)
-- [How to Get Screenshots](#how-to-get-screenshots)
 
 ---
 
@@ -159,19 +158,7 @@ Donationware
 
 [![](screenshots/screensson.png)](http://www.saver.is/#screensson)
 
-## How to Get Screenshots
-
-Capture a screenshot with this command. You can change the 5 to adjust the number of seconds it waits to take the screenshot.
-
-```
-sleep 5; screencapture -m ~/Desktop/screenshots/image.png
-```
-
-Resize the image with this command. This will resize all png images in the screenshots directory.
-
-```
-sips -Z 1000 ~/Desktop/screenshots/*.png
-```
+---
 
 ## License
 
