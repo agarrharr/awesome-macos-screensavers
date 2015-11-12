@@ -21,94 +21,135 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Clocks
 
-- [fliqlo](http://fliqlo.com/) - the flip clock screensaver
+### fliqlo
 
-    [![](screenshots/fliqlo.png)](http://fliqlo.com/)
+> A flip clock screensaver.
 
-- [Padbury Clock](http://padbury.me/clock/)
+[![](screenshots/fliqlo.png)](http://fliqlo.com/)
 
-    [![](screenshots/padburyClock.png)](http://padbury.me/clock/)
+### Padbury Clock
 
-- [PolarClock](http://blog.pixelbreaker.com/polarclock)
+> A very simple clock screensaver.
 
-    [![](screenshots/polarClock.png)](http://blog.pixelbreaker.com/polarclock)
+[![](screenshots/padburyClock.png)](http://padbury.me/clock/)
 
-- [Word Clock](https://www.simonheys.com/wordclock/)
+### PolarClock
 
-    [![](screenshots/wordClock.png)](https://www.simonheys.com/wordclock/)
+> A polar clock with the date.
+
+[![](screenshots/polarClock.png)](http://blog.pixelbreaker.com/polarclock)
+
+### Word Clock
+
+> A clock made of words. It switches between a circular and a paragraph layout.
+
+[![](screenshots/wordClock.png)](https://www.simonheys.com/wordclock/)
 
 ### Color Clocks
 
-- [Colour Clock](http://www.clock.lookatjack.com/) - Time as a hexadecimal colour value
+### Colour Clock
 
-    [![](screenshots/colourClock.png)](http://www.clock.lookatjack.com/)
+> Time as a hexadecimal colour value.
 
-- [What Colour Is It?](https://github.com/Jonic/WhatColourIsIt-ScreenSaver) -It's [http://whatcolourisit.scn9a.org/](http://whatcolourisit.scn9a.org/) but as a Mac screensaver
+[![](screenshots/colourClock.png)](http://www.clock.lookatjack.com/)
 
-    [![](screenshots/whatColourIsIt.png)](https://github.com/Jonic/WhatColourIsIt-ScreenSaver)
+### What Colour Is It?
+
+> It's [http://whatcolourisit.scn9a.org/](http://whatcolourisit.scn9a.org/) but as a Mac screensaver.
+
+[![](screenshots/whatColourIsIt.png)](https://github.com/Jonic/WhatColourIsIt-ScreenSaver)
 
 ## iOS (and Apple TV) Inspired
 
-- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
+### Aerial
 
-    [![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial)
+> Apple TV Aerial Screensaver for Mac.
 
-- [Apple Watch](http://www.rasmusnielsen.dk/applewatch/) - A screensaver that looks like an Apple Watch
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial)
 
-    [![](screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
+### Apple Watch
 
-- [iOS Lockscreen for OS X](http://littleendiangamestudios.com/project/ios-7-screen-saver/)
+> A screensaver that looks like an Apple Watch.
 
-    [![](screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-7-screen-saver/)
+[![](screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
+
+### iOS Lockscreen for OS X
+
+> A screensaver that looks like the lockscreen on iPhone and iPad.
+
+[![](screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-7-screen-saver/)
 
 ## Retro
 
-- [PongSaver](http://rogueamoeba.com/freebies/) - PongSaver is an OS X screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
+### PongSaver
 
-    [![](screenshots/pongSaver.png)](http://rogueamoeba.com/freebies/)
+> PongSaver is an OS X screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
 
-- [Textify Me](https://itunes.apple.com/us/app/textify-me/id470453599) - $0.99- This interactive screen saver turns everything in front of your camera into text!
+[![](screenshots/pongSaver.png)](http://rogueamoeba.com/freebies/)
 
-    [![](screenshots/textifyMe.png)](https://itunes.apple.com/us/app/textify-me/id470453599)
+### Textify Me
+
+> This interactive screen saver turns everything in front of your camera into text.
+
+$0.99
+
+[![](screenshots/textifyMe.png)](https://itunes.apple.com/us/app/textify-me/id470453599)
 
 ## Sci-Fi
 
-- [HAL 9000](http://www.halproject.com/) - basic is free, advanced edition is $8
+### HAL 9000
 
-    [![](screenshots/hal9000.png)](http://www.halproject.com/)
+> From the movie 2001: A Space Odyssey.
 
-- [The Github Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) -The latest commits from GitHub visualized in a Matrix-style animation.
+Basic is free, advanced edition is $8.
 
-    [![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver)
+[![](screenshots/hal9000.png)](http://www.halproject.com/)
 
-- [StarWarsScroll](http://download.cnet.com/StarWarsScroll-Screen-Saver/3000-2257_4-82580.html) - Recreates the opening titles of the first 6 Star Wars movies.
+### The Github Matrix Screensaver
 
-    [![](screenshots/starWarsScroll.png)](http://download.cnet.com/StarWarsScroll-Screen-Saver/3000-2257_4-82580.html)
+> The latest commits from GitHub visualized in a Matrix-style animation.
 
+[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver)
+
+### StarWarsScroll
+
+> Recreates the opening titles of the first 6 Star Wars movies.
+
+[![](screenshots/starWarsScroll.png)](http://download.cnet.com/StarWarsScroll-Screen-Saver/3000-2257_4-82580.html)
 
 ## Video Game
 
-- [SpeedS@ver](https://github.com/orta/SpeedS-ver) - This screensaver will download and run videos of people completing speed runs of games.
+### SpeedS@ver
 
-    [![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver)
+> Plays videos of people completing speed runs of games.
+
+[![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver)
 
 ## Aquarium
 
-- [Aquarium live lite](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
+### Aquarium live lite
 
-    [![](screenshots/aquariumLive.png)](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
+> Video of aquariums.
+
+[![](screenshots/aquariumLive.png)](https://itunes.apple.com/us/app/aquarium-live-lite-relaxing/id462563503)
 
 ## Developer
 
-- [Developer Excuses](https://github.com/kimar/DeveloperExcuses) - A Mac OS X Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com), unofficial
+### Developer Excuses
 
-    [![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
+> A Mac OS X Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com) (unofficial).
+
+[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
 
 ## Graphics
 
-- [Electric Sheep Infinite Evolving Artwork](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503) - $1.99
+### Electric Sheep Infinite Evolving Artwork
 
-    [![](screenshots/electricSheep.png)](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503)
+> Animations of evolving fractals.
+
+$1.99
+
+[![](screenshots/electricSheep.png)](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503)
 
 ## How to Get Screenshots
 
