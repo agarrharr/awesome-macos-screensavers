@@ -69,6 +69,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Textify Me](https://itunes.apple.com/us/app/textify-me/id470453599) - $0.99- This interactive screen saver turns everything in front of your camera into text!
 
+    [![](screenshots/textifyMe.png)](https://itunes.apple.com/us/app/textify-me/id470453599)
+
 ## Sci-Fi
 
 - [HAL 9000](http://www.halproject.com/) - basic is free, advanced edition is $8
