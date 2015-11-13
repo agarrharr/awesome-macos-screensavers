@@ -124,6 +124,14 @@ Basic is free, advanced edition is $8.
 
 [![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver)
 
+### UberNES Screensaver
+
+> The NES Screen Saver emulates many NES games in real-time, rendering them to your screen as a "wall"
+
+Free
+
+[![](screenshots/UberNES.png)](http://www.ubernes.com/nesscreensaverfeatures.html)
+
 ## Aquarium
 
 ### Aquarium live lite
