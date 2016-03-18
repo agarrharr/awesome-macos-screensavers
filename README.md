@@ -44,6 +44,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](screenshots/wordClock.png)](https://www.simonheys.com/wordclock/)
 
+### Fractal Clock
+
+> A clock that produces a fractal tree pattern around it as it moves.
+
+[![](screenshots/fractalClock.png)](http://www.dqd.com/~mayoff/programs/FractalClock/)
+
 ### Color Clocks
 
 ### Colour Clock
