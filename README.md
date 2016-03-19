@@ -50,6 +50,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](screenshots/fractalClock.png)](http://www.dqd.com/~mayoff/programs/FractalClock/)
 
+### Epoch Flip Clock
+
+> Epoch (unix time) flip clock screensaver.
+
+[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock/)
+
 ### Color Clocks
 
 ### Colour Clock
