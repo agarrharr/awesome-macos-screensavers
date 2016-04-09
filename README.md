@@ -38,6 +38,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](screenshots/polarClock.png)](http://blog.pixelbreaker.com/polarclock)
 
+### Today
+
+> Time or date displayed in a similar way to On Kawara's "Today Series" paintings.
+
+[![](screenshots/today.png)](http://www.gingerbeardman.com/today/)
+
 ### Word Clock
 
 > A clock made of words. It switches between a circular and a paragraph layout.
