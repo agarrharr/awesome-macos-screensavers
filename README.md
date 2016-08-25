@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Aquarium](#aquarium)
 - [Developer](#developer)
 - [Graphics](#graphics)
+- [Other](#other)
 
 ---
 
@@ -175,6 +176,16 @@ $1.99
 Donationware
 
 [![](screenshots/screensson.png)](http://www.saver.is/#screensson)
+
+## Other
+
+### Google Trends
+
+> Shows the latest hot searches for all regions or specific countries.
+
+Free
+
+[![](screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
 
 ---
 
