@@ -63,6 +63,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock/)
 
+### Shepherd Clock saver
+
+> A simulation of the famous Shepherd clock at Greenwich in London, one of the first electric clocks in the world.
+
+[![](screenshots/shepherd-clock.png)](https://24hourtime.info/2006/08/28/greenwich-time/)
+
 ### Color Clocks
 
 ### Colour Clock
