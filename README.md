@@ -1,6 +1,6 @@
-# Awesome OS X Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of screensavers for Mac OS X.
+> A curated list of screensavers for macOS.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -91,7 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
 
-### iOS Lockscreen for OS X
+### iOS Lockscreen for macOS
 
 > A screensaver that looks like the lockscreen on iPhone and iPad.
 
@@ -101,7 +101,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### PongSaver
 
-> PongSaver is an OS X screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
+> PongSaver is an macOS screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
 
 [![](screenshots/pongSaver.png)](http://rogueamoeba.com/freebies/)
 
@@ -155,7 +155,7 @@ Basic is free, advanced edition is $8.
 
 ### Developer Excuses
 
-> A Mac OS X Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com) (unofficial).
+> A macOS Screensaver which shows quotes from [http://developerexcuses.com](http://developerexcuses.com) (unofficial).
 
 [![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
 
