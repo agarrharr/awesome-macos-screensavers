@@ -67,7 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 > A simulation of the famous Shepherd clock at Greenwich in London, one of the first electric clocks in the world.
 
-[![](screenshots/shepherd-clock.png)](https://24hourtime.info/2006/08/28/greenwich-time/)
+[![](screenshots/shepherdclock-saver.png)](https://24hourtime.info/2006/08/28/greenwich-time/)
 
 ### Color Clocks
 
