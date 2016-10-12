@@ -165,9 +165,9 @@ Basic is free, advanced edition is $8.
 
 > Animations of evolving fractals.
 
-$1.99
+Free
 
-[![](screenshots/electricSheep.png)](https://itunes.apple.com/us/app/electric-sheep-infinite-evolving/id444604503)
+[![](screenshots/electricSheep.png)](http://electricsheep.org/)
 
 ### Screensson
 
