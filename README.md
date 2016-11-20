@@ -63,6 +63,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock/)
 
+### Grid Clock
+
+> Twelve hour time in words.
+
+[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock/)
+
 ### Color Clocks
 
 ### Colour Clock
