@@ -65,12 +65,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Color Clocks
 
-### Colour Clock
-
-> Time as a hexadecimal colour value.
-
-[![](screenshots/colourClock.png)](http://www.clock.lookatjack.com/)
-
 ### What Colour Is It?
 
 > It's [http://whatcolourisit.scn9a.org/](http://whatcolourisit.scn9a.org/) but as a Mac screensaver.
