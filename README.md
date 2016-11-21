@@ -59,9 +59,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Epoch Flip Clock
 
-> Epoch (unix time) flip clock screensaver.
+> Unix Time (epoch) flip clock.
 
 [![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock/)
+
+### Grid Clock
+
+> Twelve hour time in words.
+
+[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock/)
 
 ### Color Clocks
 
