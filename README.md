@@ -33,12 +33,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](screenshots/padburyClock.png)](http://padbury.me/clock/)
 
-### PolarClock
-
-> A polar clock with the date.
-
-[![](screenshots/polarClock.png)](http://blog.pixelbreaker.com/polarclock)
-
 ### Today
 
 > Time or date displayed in a similar way to On Kawara's "Today Series" paintings.
