@@ -153,6 +153,14 @@ Basic is free, advanced edition is $8.
 
 [![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
 
+### Windows Kernel Panic
+
+> Blue Screen of Death (BSOD) screensaver for Mac.
+
+Free
+
+[![](screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver)
+
 ## Graphics
 
 ### Electric Sheep Infinite Evolving Artwork
