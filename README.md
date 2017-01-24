@@ -89,7 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 > A screensaver that looks like the lockscreen on iPhone and iPad.
 
-[![](screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-7-screen-saver/)
+[![](screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-8-screen-saver/)
 
 ## Retro
 
