@@ -153,6 +153,14 @@ Basic is free, advanced edition is $8.
 
 [![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
 
+### MacOS Kernel Panic
+
+> Harmless screensaver that faithfully emulates the horrifying experience of a kernel panic.
+
+Free
+
+[![](screenshots/macosKernelPanic.png)](http://doomlaser.com/kernel-panic-screensaver/)
+
 ### Windows Kernel Panic
 
 > Blue Screen of Death (BSOD) screensaver for Mac.
