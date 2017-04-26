@@ -109,14 +109,6 @@ $0.99
 
 ## Sci-Fi
 
-### HAL 9000
-
-> From the movie 2001: A Space Odyssey.
-
-Basic is free, advanced edition is $8.
-
-[![](screenshots/hal9000.png)](http://www.halproject.com/)
-
 ### The Github Matrix Screensaver
 
 > The latest commits from GitHub visualized in a Matrix-style animation.
