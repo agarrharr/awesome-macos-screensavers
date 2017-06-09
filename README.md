@@ -179,6 +179,14 @@ Donationware
 
 [![](screenshots/screensson.png)](http://www.saver.is/#screensson)
 
+### Emoji Saver
+
+> Animates Apple, EmojiOne and Twitter Emojis in 7 different effects with many customizable settings.
+
+Lite Version (Free) and Full Version ($3)
+
+[![](screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
+
 ## Other
 
 ### Google Trends
