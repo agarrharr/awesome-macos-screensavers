@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Aquarium](#aquarium)
 - [Developer](#developer)
 - [Graphics](#graphics)
+- [Space](#space)
 - [Other](#other)
 
 ---
@@ -186,6 +187,16 @@ Donationware
 Lite Version (Free) and Full Version ($3)
 
 [![](screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
+
+## Space
+
+### StarMessage moon screensaver
+
+> Shows the moon at its current phase and lets you write messages with the stars of the night sky.
+
+Free (Lite edition)
+
+[![](screenshots/starmessage.png)](https://www.starmessagesoftware.com/moonscreensaver)
 
 ## Other
 
