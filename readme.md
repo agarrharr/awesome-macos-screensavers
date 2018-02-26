@@ -7,7 +7,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Clocks](#clocks)
-  - [Color Clocks](#color-clocks)
 - [iOS (and Apple TV) Inspired](#ios-and-apple-tv-inspired)
 - [Retro](#retro)
 - [Sci-Fi](#sci-fi)
@@ -62,14 +61,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 > Twelve hour time in words.
 
 [![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock/)
-
-### Color Clocks
-
-### What Colour Is It?
-
-> It's [http://whatcolourisit.scn9a.org/](http://whatcolourisit.scn9a.org/) but as a Mac screensaver.
-
-[![](screenshots/whatColourIsIt.png)](https://github.com/Jonic/WhatColourIsIt-ScreenSaver)
 
 ## iOS (and Apple TV) Inspired
 
