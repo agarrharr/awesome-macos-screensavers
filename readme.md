@@ -168,7 +168,7 @@ Free
 
 Donationware
 
-[![](screenshots/screensson.png)](http://www.saver.is/#screensson)
+[![](screenshots/screensson.png)](http://www.siggieggertsson.com/Saver-Screensson)
 
 ### Emoji Saver
 
