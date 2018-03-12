@@ -54,13 +54,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 > Unix Time (epoch) flip clock.
 
-[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock/)
+[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/)
 
 ### Grid Clock
 
 > Twelve hour time in words.
 
-[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock/)
+[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/)
+
+### Word Clock
+
+> A super simple word clock, like your computer is typing the time for you.
+
+[![](screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
 
 ## iOS (and Apple TV) Inspired
 
