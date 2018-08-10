@@ -68,6 +68,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
 
+### ColorClock
+
+> Displays a solid color corresponding to the current time.
+
+[![](screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
+
 ## iOS (and Apple TV) Inspired
 
 ### Aerial
