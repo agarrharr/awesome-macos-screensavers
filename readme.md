@@ -68,6 +68,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
 
+### Simple Clock
+
+> A simple clock screensaver with different analogue clock faces as skins.
+
+Free
+
+[![](screenshots/simpleClock.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/)
+
 ### ColorClock
 
 > Displays a solid color corresponding to the current time.
