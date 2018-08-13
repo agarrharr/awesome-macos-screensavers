@@ -76,6 +76,12 @@ Free
 
 [![](screenshots/simpleClock.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/)
 
+### ColorClock
+
+> Displays a solid color corresponding to the current time.
+
+[![](screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
+
 ## iOS (and Apple TV) Inspired
 
 ### Aerial
