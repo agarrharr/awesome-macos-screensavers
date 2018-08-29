@@ -82,6 +82,14 @@ Free
 
 [![](screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
+### Evangelion Clock
+
+> A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion.
+
+Free
+
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
+
 ## iOS (and Apple TV) Inspired
 
 ### Aerial
