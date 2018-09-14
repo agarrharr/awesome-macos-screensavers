@@ -140,6 +140,12 @@ $0.99
 
 [![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver)
 
+### Lazy Nethack
+
+> Lets you watch live nethack games.
+
+[![](screenshots/lazyNethack.gif)](https://github.com/tessi/LazyNethack)
+
 ## Aquarium
 
 ### Aquarium live lite
