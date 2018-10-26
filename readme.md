@@ -82,6 +82,12 @@ Free
 
 [![](screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
+### MinimalClock
+
+> A minimal screen saver that displays the current time.
+
+[![](screenshots/minimalClock.png)](https://github.com/mattiarossini/MinimalClock)
+
 ## iOS (and Apple TV) Inspired
 
 ### Aerial
