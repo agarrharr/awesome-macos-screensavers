@@ -84,7 +84,7 @@ Free
 
 ### MinimalClock
 
-> A minimal screen saver that displays the current time.
+> A minimal screensaver that displays the current time.
 
 [![](screenshots/minimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
