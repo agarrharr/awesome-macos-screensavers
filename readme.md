@@ -198,6 +198,14 @@ Lite Version (Free) and Full Version ($3)
 
 [![](screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
 
+### October 30
+
+> Smoothly changes between 371 Apple logos from their 2018 iPad event.
+
+Free
+
+[![](screenshots/october30.png)](https://github.com/lekevicius/october30)
+
 ## Other
 
 ### Google Trends
