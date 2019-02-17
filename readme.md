@@ -26,12 +26,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](screenshots/fliqlo.png)](http://fliqlo.com/)
 
-### Padbury Clock
-
-> A very simple clock screensaver.
-
-[![](screenshots/padburyClock.png)](http://padbury.me/clock/)
-
 ### Today
 
 > Time or date displayed in a similar way to On Kawara's "Today Series" paintings.
