@@ -76,6 +76,12 @@ Free
 
 [![](screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
+### ScreenMazer
+
+> Continuously builds and then solves a maze, while displaying the current time.
+
+[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
+
 ## iOS (and Apple TV) Inspired
 
 ### Aerial
