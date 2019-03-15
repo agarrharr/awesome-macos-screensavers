@@ -96,6 +96,14 @@ Free
 
 [![](screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
 
+### Brooklyn
+
+> A screensaver inspired by Apple's Event on October 30, 2018
+
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
+
+Free
+
 ### iOS Lockscreen for macOS
 
 > A screensaver that looks like the lockscreen on iPhone and iPad.
