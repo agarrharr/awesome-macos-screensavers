@@ -7,7 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Clocks](#clocks)
-- [iOS (and Apple TV) Inspired](#ios-and-apple-tv-inspired)
+- [Apple Inspired](#iapple-inspired)
 - [Retro](#retro)
 - [Sci-Fi](#sci-fi)
 - [Video Game](#video-game)
@@ -82,7 +82,7 @@ Free
 
 [![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
-## iOS (and Apple TV) Inspired
+## Apple Inspired
 
 ### Aerial
 
