@@ -7,7 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Clocks](#clocks)
-- [Apple Inspired](#iapple-inspired)
+- [Apple Inspired](#apple-inspired)
 - [Retro](#retro)
 - [Sci-Fi](#sci-fi)
 - [Video Game](#video-game)
