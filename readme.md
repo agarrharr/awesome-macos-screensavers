@@ -7,7 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Clocks](#clocks)
-- [iOS (and Apple TV) Inspired](#ios-and-apple-tv-inspired)
+- [Apple Inspired](#apple-inspired)
 - [Retro](#retro)
 - [Sci-Fi](#sci-fi)
 - [Video Game](#video-game)
@@ -82,7 +82,7 @@ Free
 
 [![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
-## iOS (and Apple TV) Inspired
+## Apple Inspired
 
 ### Aerial
 
@@ -96,11 +96,27 @@ Free
 
 [![](screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
 
+### Brooklyn
+
+> A screensaver inspired by Apple's Event on October 30, 2018
+
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
+
+Free
+
 ### iOS Lockscreen for macOS
 
 > A screensaver that looks like the lockscreen on iPhone and iPad.
 
 [![](screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-8-screen-saver/)
+
+### October 30
+
+> Smoothly changes between 371 Apple logos from their 2018 iPad event.
+
+Free
+
+[![](screenshots/october30.png)](https://github.com/lekevicius/october30)
 
 ## Retro
 
@@ -197,14 +213,6 @@ Donationware
 Lite Version (Free) and Full Version ($3)
 
 [![](screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
-
-### October 30
-
-> Smoothly changes between 371 Apple logos from their 2018 iPad event.
-
-Free
-
-[![](screenshots/october30.png)](https://github.com/lekevicius/october30)
 
 ## Other
 
