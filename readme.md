@@ -118,6 +118,14 @@ Free
 
 [![](screenshots/october30.png)](https://github.com/lekevicius/october30)
 
+### SwiftBubble
+
+> Recreation of the soap bubble screen saver from Apple's promotional videos for the Early 2015 MacBook 12".
+
+Free
+
+[![](screenshots/swiftBubble.png)](https://github.com/nemesit/SwiftBubble)
+
 ## Retro
 
 ### PongSaver
