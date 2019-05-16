@@ -7,7 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Clocks](#clocks)
-- [iOS (and Apple TV) Inspired](#ios-and-apple-tv-inspired)
+- [Apple Inspired](#apple-inspired)
 - [Retro](#retro)
 - [Sci-Fi](#sci-fi)
 - [Video Game](#video-game)
@@ -25,12 +25,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 > A flip clock screensaver.
 
 [![](screenshots/fliqlo.png)](http://fliqlo.com/)
-
-### Padbury Clock
-
-> A very simple clock screensaver.
-
-[![](screenshots/padburyClock.png)](http://padbury.me/clock/)
 
 ### Today
 
@@ -82,6 +76,12 @@ Free
 
 [![](screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
+### ScreenMazer
+
+> Continuously builds and then solves a maze, while displaying the current time.
+
+[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
+
 ### Evangelion Clock
 
 > A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion.
@@ -90,7 +90,7 @@ Free
 
 [![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
 
-## iOS (and Apple TV) Inspired
+## Apple Inspired
 
 ### Aerial
 
@@ -104,11 +104,35 @@ Free
 
 [![](screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
 
+### Brooklyn
+
+> A screensaver inspired by Apple's Event on October 30, 2018
+
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
+
+Free
+
+## MusaicFM
+
+> A sreensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
+
+[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
+
+Free
+
 ### iOS Lockscreen for macOS
 
 > A screensaver that looks like the lockscreen on iPhone and iPad.
 
 [![](screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-8-screen-saver/)
+
+### October 30
+
+> Smoothly changes between 371 Apple logos from their 2018 iPad event.
+
+Free
+
+[![](screenshots/october30.png)](https://github.com/lekevicius/october30)
 
 ## Retro
 
