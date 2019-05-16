@@ -104,6 +104,14 @@ Free
 
 Free
 
+## MusaicFM
+
+> A sreensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
+
+[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
+
+Free
+
 ### iOS Lockscreen for macOS
 
 > A screensaver that looks like the lockscreen on iPhone and iPad.
