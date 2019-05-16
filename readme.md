@@ -82,6 +82,14 @@ Free
 
 [![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
+### Evangelion Clock
+
+> A digital clock screensaver inspired by the graphical interfaces from Neon Genesis Evengelion.
+
+Free
+
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
+
 ## Apple Inspired
 
 ### Aerial
