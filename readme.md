@@ -236,6 +236,14 @@ Lite Version (Free) and Full Version ($3)
 
 [![](screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
 
+### Life Saver
+
+> Designer-friendly abstract visualization of Conway's Game of Life.
+
+Free (Open Source)
+
+[![](screenshots/lifesaver.png)](https://www.github.com/amiantos/lifesaver)
+
 ## Other
 
 ### Google Trends
