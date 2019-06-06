@@ -90,6 +90,12 @@ Free
 
 [![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
 
+### Predator
+
+> A predator-inspired clock screensaver.
+
+[![](screenshots/predator.png)](https://predatorsaver.space/)
+
 ## Apple Inspired
 
 ### Aerial
