@@ -254,14 +254,6 @@ Free
 
 [![](screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
 
-### Google's Featured Photos Screensaver
-
-> See beautiful new photos while you're not using your Mac.
-
-Free
-
-[![](screenshots/Googlefeaturedphotos.png)](https://plus.google.com/featuredphotos)
-
 ---
 
 ## License
