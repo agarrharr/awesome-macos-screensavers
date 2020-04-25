@@ -141,6 +141,14 @@ Free
 
 [![](screenshots/october30.png)](https://github.com/lekevicius/october30)
 
+### Fruit
+
+> Animated vintage Apple logo
+
+[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit)
+
+Free
+
 ## Retro
 
 ### PongSaver
