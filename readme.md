@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Developer](#developer)
 - [Graphics](#graphics)
 - [Other](#other)
+- [Collections](#collections)
 
 ---
 
@@ -89,6 +90,12 @@ Free
 Free
 
 [![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
+
+### Predator
+
+> A predator-inspired clock screensaver.
+
+[![](screenshots/predator.png)](https://predatorsaver.space/)
 
 ## Apple Inspired
 
@@ -248,13 +255,15 @@ Free
 
 [![](screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
 
-### Google's Featured Photos Screensaver
+## Collections
 
-> See beautiful new photos while you're not using your Mac.
+### Bjorn Johansson
 
-Free
+> Digital art in the form of screensavers by designer Bjorn Johansson.
 
-[![](screenshots/Googlefeaturedphotos.png)](https://plus.google.com/featuredphotos)
+Free (pay what you want)
+
+[![](screenshots/johansson.png)](https://johansson.design/screensavers/)
 
 ---
 
