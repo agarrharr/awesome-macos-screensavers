@@ -255,6 +255,14 @@ Free
 
 [![](screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
 
+### Last Statement
+
+> Like the macOS "Word of the Day" screensaver, but instead of words and definitions, it's the names and last statements of people executed by the State of Texas.
+
+Free (Open Source)
+
+[![](screenshots/last-statement.png)](https://www.github.com/amiantos/last-statement)
+
 ## Collections
 
 ### Bjorn Johansson
