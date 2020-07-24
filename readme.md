@@ -97,6 +97,12 @@ Free
 
 [![](screenshots/predator.png)](https://predatorsaver.space/)
 
+### Death Counter
+
+> A simple counter screensaver that counts down to your death. 
+
+[![](screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
+
 ## Apple Inspired
 
 ### Aerial
