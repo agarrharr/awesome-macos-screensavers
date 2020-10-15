@@ -107,7 +107,7 @@ Free
 
 > Simple and elegant screensaver for MacOS that displays the time.
 
-free
+Free
 
 [![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
