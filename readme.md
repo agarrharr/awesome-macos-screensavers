@@ -95,7 +95,7 @@ Free
 
 > A predator-inspired clock screensaver.
 
-[![](screenshots/predator.png)](https://predatorsaver.space/)
+[![](screenshots/predator.png)](https://github.com/vpeschenkov/Predator)
 
 ### Death Counter
 
