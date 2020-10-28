@@ -103,6 +103,14 @@ Free
 
 [![](screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
 
+### MinimalClock
+
+> Simple and elegant screensaver for MacOS that displays the time.
+
+Free
+
+[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
+
 ## Apple Inspired
 
 ### Aerial
