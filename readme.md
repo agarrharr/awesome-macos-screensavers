@@ -301,6 +301,14 @@ Free (pay what you want)
 
 [![](screenshots/johansson.png)](https://johansson.design/screensavers/)
 
+### XScreenSaver
+
+> Jamie Zawinski's classic Unix/X11 screensaver collection (240+ at last count), ported to macOS. 
+
+Free (Open Source)
+
+[![](screenshots/XScreenSaver.jpg)](https://www.jwz.org/xscreensaver/)
+
 ---
 
 ## License
