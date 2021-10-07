@@ -273,6 +273,14 @@ Free (Open Source)
 
 [![](screenshots/lifesaver.png)](https://www.github.com/amiantos/lifesaver)
 
+### ElectropaintOSX
+
+> Port of the mesmerizing Silicon Graphics screensaver
+
+Free (Open Source)
+
+[![image](https://user-images.githubusercontent.com/16557/134262935-72d6194d-97b2-4de3-9a44-79cf826cc114.png)](http://crimsonmagic.net/)
+
 ## Other
 
 ### Google Trends
