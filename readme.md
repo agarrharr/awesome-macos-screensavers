@@ -95,7 +95,21 @@ Free
 
 > A predator-inspired clock screensaver.
 
-[![](screenshots/predator.png)](https://predatorsaver.space/)
+[![](screenshots/predator.png)](https://github.com/vpeschenkov/Predator)
+
+### Death Counter
+
+> A simple counter screensaver that counts down to your death. 
+
+[![](screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
+
+### MinimalClock
+
+> Simple and elegant screensaver for MacOS that displays the time.
+
+Free
+
+[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
 ## Apple Inspired
 
@@ -141,6 +155,14 @@ Free
 
 [![](screenshots/october30.png)](https://github.com/lekevicius/october30)
 
+### Fruit
+
+> Animated vintage Apple logo
+
+[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit)
+
+Free
+
 ## Retro
 
 ### PongSaver
@@ -170,6 +192,12 @@ $0.99
 > Recreates the opening titles of the first 6 Star Wars movies.
 
 [![](screenshots/starWarsScroll.png)](http://download.cnet.com/StarWarsScroll-Screen-Saver/3000-2257_4-82580.html)
+
+### Matrix
+
+>  One interpretation of The Matrix.
+
+[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload)
 
 ## Video Game
 
@@ -244,6 +272,14 @@ Lite Version (Free) and Full Version ($3)
 Free (Open Source)
 
 [![](screenshots/lifesaver.png)](https://www.github.com/amiantos/lifesaver)
+
+### ElectropaintOSX
+
+> Port of the mesmerizing Silicon Graphics screensaver
+
+Free (Open Source)
+
+[![image](https://user-images.githubusercontent.com/16557/134262935-72d6194d-97b2-4de3-9a44-79cf826cc114.png)](http://crimsonmagic.net/)
 
 ## Other
 
