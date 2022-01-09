@@ -111,6 +111,12 @@ Free
 
 [![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
+### MultiClock
+
+> Displays the time (and animations) using 24 individual clocks
+
+[![](screenshots/multiclock.png)](https://github.com/amiantos/multiclock)
+
 ## Apple Inspired
 
 ### Aerial
