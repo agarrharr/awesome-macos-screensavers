@@ -313,7 +313,7 @@ Free (Open Source)
 
 Free (pay what you want)
 
-[![](screenshots/johansson.png)](https://johansson.design/screensavers/)
+[![](screenshots/johansson.png)](https://johansson.design/projects/)
 
 ---
 
