@@ -253,6 +253,14 @@ Free
 
 [![](screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver)
 
+### octoscreen
+
+> An OS X screensaver with octicons
+
+Free (Open Source)
+
+[![](screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen)
+
 ## Graphics
 
 ### Electric Sheep Infinite Evolving Artwork
