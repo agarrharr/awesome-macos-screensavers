@@ -303,6 +303,14 @@ Free (Open Source)
 
 [![](screenshots/ealain-examples.jpg)](https://www.github.com/amiantos/ealain)
 
+### Font Graffiti
+
+> Font Graffiti Screensaver for macOS
+
+Free
+
+[![](screenshots/fontGraffiti.png)](https://fontgear.com/pages/downloads)
+
 ## Other
 
 ### Google Trends
