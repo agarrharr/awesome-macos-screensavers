@@ -293,7 +293,7 @@ Free (Open Source)
 
 Free (Open Source)
 
-[![image](https://user-images.githubusercontent.com/16557/134262935-72d6194d-97b2-4de3-9a44-79cf826cc114.png)](http://crimsonmagic.net/)
+[![image](https://user-images.githubusercontent.com/16557/134262935-72d6194d-97b2-4de3-9a44-79cf826cc114.png)](https://github.com/srirangav/electropaintosx)
 
 ### Ealain
 
