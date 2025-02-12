@@ -177,6 +177,14 @@ Free
 
 Free
 
+### SwiftBubble
+
+> Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
+
+[![](screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble)
+
+Free (Open Source)
+
 ## Retro
 
 ### PongSaver
