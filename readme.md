@@ -349,6 +349,14 @@ Free (Open Source)
 
 [![](screenshots/last-statement.png)](https://www.github.com/amiantos/last-statement)
 
+### ScreenSaverGallery
+
+  > Screensaver as a gallery of contemporary digital and online art.
+
+  Free ([Open Source](https://github.com/screensavergallery))
+
+  [![](screenshots/ScreenSaverGallery.png)](https://screensaver.gallery)
+
 ## Collections
 
 ### Bjorn Johansson
