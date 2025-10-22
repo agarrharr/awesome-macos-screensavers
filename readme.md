@@ -349,6 +349,14 @@ Free (Open Source)
 
 [![](screenshots/last-statement.png)](https://www.github.com/amiantos/last-statement)
 
+### macOS Live Screensaver
+
+> Plays live video streams from YouTube and HLS sources.
+
+Free (Open Source)
+
+[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver)
+
 ## Collections
 
 ### Bjorn Johansson
