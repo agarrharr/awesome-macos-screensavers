@@ -365,7 +365,7 @@ Free (Open Source)
 
 Free (pay what you want)
 
-[![](screenshots/johansson.png)](https://johansson.design/projects/)
+[![](screenshots/johansson.png)](https://vsxop.com/work/screensavers)
 
 ---
 
