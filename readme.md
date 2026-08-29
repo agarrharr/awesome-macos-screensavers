@@ -331,6 +331,14 @@ Free (Open Source)
 
 [![](screenshots/ealain-examples.jpg)](https://www.github.com/amiantos/ealain)
 
+### Surrealism
+
+> A living gallery of surreal video loops that play when you step away.
+
+Free (starter loops) / $69 for the full library
+
+[![](screenshots/surrealism.jpg)](https://surrealism.app)
+
 ## Other
 
 ### Google Trends
