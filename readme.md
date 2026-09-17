@@ -159,7 +159,7 @@ Free
 
 [![](https://github.com/Ventuss-OvO/start-now-saver/raw/main/Resources/Now.png)](https://github.com/Ventuss-OvO/start-now-saver)
 
-## MusaicFM
+### MusaicFM
 
 > A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
@@ -193,7 +193,7 @@ Free
 
 > Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
 
-[![](screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble)
+[![](screenshots/swiftBubble.png)](https://github.com/nemesit/SwiftBubble)
 
 Free (Open Source)
 
