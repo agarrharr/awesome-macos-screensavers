@@ -131,6 +131,14 @@ Free
 
 [![](screenshots/digital-electric-screensaver.png)](https://quismi.com/digital-electric)
 
+### Wortuhr
+
+> A word clock on a letter grid, in eight languages.
+
+Free
+
+[![](screenshots/wortuhr.png)](https://github.com/Diavolezza/wortuhr)
+
 ## Apple Inspired
 
 ### Aerial
